@@ -1,0 +1,10 @@
+.container{display:flex;flex-direction: row;}
+.badge{background-color:lightgrey;padding:3px;border-radius:100%;margin-right:5px;}
+
+ul{list-style: none;}
+.heroes>li{background-color:lightcyan;padding:6px;width:20vw;margin-bottom:10px;cursor:pointer;}
+.heroes>li:hover{background-color:lightpink;color:blue;}
+
+
+.details{background-color:lightgoldenrodyellow; width:50vw;margin-left:20px;padding:10px;border-radius:10px;}
+.selected{background-color:lightsalmon!important;border:1px black dotted;}
